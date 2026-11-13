@@ -1,0 +1,12 @@
+numpy>=2.0
+scipy>=1.14
+pandas>=2.2
+matplotlib>=3.9
+seaborn>=0.13
+scikit-learn>=1.5
+statsmodels>=0.14
+biopython>=1.84
+openpyxl>=3.1
+requests>=2.32
+numba>=0.61
+openmm>=8.2

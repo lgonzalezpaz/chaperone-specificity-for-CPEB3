@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the manuscript."
+title: "PRISM-J: precision structural, phylogenomic and interactomic mapping of J-domain proteins"
+abstract: "A four-layer, low-cost computational pipeline that separates conservation of the Hsp70-coupling module of a J-domain protein from the chemistry of its client and from its cellular context, and applies the separation to the chaperone control of CPEB3 functional amyloid."
+version: "1.0.0"
+license: MIT
+keywords:
+  - functional amyloid
+  - J-domain protein
+  - CPEB3
+  - Orb2
+  - coarse-grained simulation
+  - chaperone specificity
